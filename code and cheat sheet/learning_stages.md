@@ -26,5 +26,7 @@ git commit -m "yourmessage"
 ```
 7. to sync changes use this:
 ```
-git push origin <branch name> (by default main is use for primary brach)
+git push <remote name> <branch name>
 ```
+note:(defualt remote name is "origin" and also use as best practice too. and defualt branch name is "master" in git and "main" in github.
+both remote and branch names can be change as per need.) 
