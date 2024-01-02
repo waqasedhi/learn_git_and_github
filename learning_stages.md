@@ -102,6 +102,8 @@ This command lets you setup the user email address you'll use in your commits.
 **to recheck above config**
 This command give us information about username or email or default branch name etc.
 `git config --get "<desire information>"`
+** to use default remote name**
+`git config --global alias.push 'push origin'`
 
 <br><br>
 ## Start a working with git
