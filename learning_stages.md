@@ -122,7 +122,7 @@ This command give us information about username or email or default branch name 
 | Command | Description |
 |---|:---|
 | `git init` | Initializes a new Git repository in the current directory. |
-| `git init <directory>` | Creates a new Git repository in the specified directory. |
+| `git init <directory path>` | Creates a new Git repository in the specified directory. |
 | `git clone <repository_url>` | Clones a repository from a remote server to your local machine. |
 | `git clone --branch <branch_name> <repository_url>` | Clones a specific branch from a repository. |
 | `git remote`| List all remote repositories.|

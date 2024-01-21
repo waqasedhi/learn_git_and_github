@@ -1,0 +1,6 @@
+what is git
+installation of git
+creating an account on github
+config git with user.name, user.email, init defaultBranch, core.editor in --global
+initialization of project directory
+creat repo on remote
